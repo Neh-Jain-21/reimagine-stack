@@ -1,0 +1,56 @@
+/** @format */
+
+.signin-img {
+    object-fit: contain;
+    max-width: 50vw;
+}
+
+.signin-img-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20vh;
+}
+
+.signin-welcome {
+    color: #1d1c1d;
+    font-size: 32px;
+}
+
+.signin-login {
+    color: #8f9bb3;
+}
+
+.signin-copyright {
+    color: #9494ae;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+}
+
+.signin-email-text {
+    margin-top: 30px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #1d1c1d;
+}
+
+.signin-forgot {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: #ff7f00;
+}
+
+.signin-form {
+    width: 100%;
+}
+
+.signin-error {
+    color: red;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 13px;
+}

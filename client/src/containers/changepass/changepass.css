@@ -1,0 +1,31 @@
+/** @format */
+
+.changepass-heading-text {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    color: #1d1c1d;
+}
+
+.changepass-text {
+    color: #8f9bb3;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.changepass-footer-text {
+    margin-top: 10px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: #8f9bb3;
+}
+
+.changepass-mt {
+    margin-top: 15px;
+}

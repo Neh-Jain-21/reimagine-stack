@@ -1,0 +1,72 @@
+/** @format */
+
+.postlist-user-img {
+    margin-right: 15px;
+    width: 68px;
+    height: 68px;
+    border-radius: 50%;
+}
+
+.postlist-username {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #222a33;
+}
+
+.postlist-details {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #9494ae;
+}
+
+.postlist-likes {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #9494ae;
+    cursor: pointer;
+}
+
+.postlist-description {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #222a33;
+}
+
+.postlist-image {
+    margin-bottom: 20px;
+    margin-right: 20px;
+    width: 144px;
+    object-fit: contain;
+    border-radius: 4px;
+}
+
+.postlist-time {
+    display: flex;
+    align-items: center;
+}
+
+.likes-header {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2f80ed;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+
+.likes-header-text {
+    color: white;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+}

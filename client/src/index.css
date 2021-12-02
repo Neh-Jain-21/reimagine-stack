@@ -1,0 +1,37 @@
+/** @format */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+.navlink-common {
+    text-decoration: none;
+}
+
+.horizontal-rule {
+    height: 1px;
+    width: 100%;
+}
+
+.input-with-icon {
+    display: flex;
+    border: 1px solid white;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+.input-with-icon:hover {
+    border: 1px solid #000000;
+}
+
+.input-with-icon:focus-within {
+    border: 1px solid rgb(255, 97, 97);
+}
+
+.userimg {
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    border: 2px solid grey;
+}

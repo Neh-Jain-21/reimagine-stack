@@ -1,0 +1,21 @@
+/** @format */
+
+.commonleft-text-container {
+    min-height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    margin: 0px 50px;
+}
+
+.commonleft-img-container {
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

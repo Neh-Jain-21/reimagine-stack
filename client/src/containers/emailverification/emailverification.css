@@ -1,0 +1,9 @@
+/** @format */
+
+.emailverif-input {
+    width: 60px;
+}
+
+.emailverif-input input {
+    text-align: center;
+}

@@ -1,0 +1,38 @@
+/** @format */
+
+.publicnav-header {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #242f3a;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.08);
+    width: 100%;
+    height: 5vh;
+}
+
+.publicnav-logo {
+    margin-left: 10px;
+}
+
+.publicnav-align-right {
+    margin-left: auto;
+}
+
+.navlink-mr {
+    margin-right: 15px;
+}
+
+@media (max-width: 899px) {
+    .publicnav-logo {
+        height: 28px;
+    }
+}
+
+@media (max-width: 360px) {
+    .publicnav-logo {
+        display: none;
+    }
+}

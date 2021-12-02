@@ -1,0 +1,46 @@
+/** @format */
+
+.register-text-container {
+    min-height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    margin: 0px 50px;
+}
+
+.register-img-container {
+    min-height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.register-input {
+    display: flex;
+    flex-direction: column;
+}
+
+.register-terms {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: #9494ae;
+}
+
+.register-copyright {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: #9494ae;
+}
+
+.register-ml-3 {
+    margin-left: 23px;
+}

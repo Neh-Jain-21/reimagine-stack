@@ -1,0 +1,27 @@
+/** @format */
+
+.posts-heading {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    color: #222a33;
+}
+
+.posts-desc {
+    margin-top: 30px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #5e6367;
+}
+
+.posts-image {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    width: 144px;
+    object-fit: contain;
+    border-radius: 4px;
+}
